@@ -1,5 +1,5 @@
 {
-  "name": "cache-manager",
+  "name": "@studiohyperdrive/cache-manager",
   "version": "3.6.0",
   "description": "Cache module for Node.js",
   "main": "index.js",
